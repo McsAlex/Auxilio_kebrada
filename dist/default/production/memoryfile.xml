@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\Auxilio_kebrada.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>8192</length>
+      <used>776</used>
+      <free>7416</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>368</length>
+      <used>33</used>
+      <free>335</free>
+    </memory>
+  </executable>
+</project>
